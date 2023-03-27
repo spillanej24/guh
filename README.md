@@ -1,9 +1,19 @@
 # guh
 
 ### Things I like:
-* I like Twice
-* I like NWJNS
-* Favorite song is What is Love by Twice
+* Favorite bands:
+    * Twice
+    * NWJNS
+    * AJR
+    * Tuyu
+* Favorite songs are:
+    * What is Love by Twice
+    * Likey by Twice
+    * Fancy by Twice
+    * TT by Twice
+    * Burn the House down by AJR
+    * Ditto by NWJNS
+    * Sober Up by AJR
 * I like the stars
 * I like outer space
 * I like cars
